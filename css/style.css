@@ -1,22 +1,30 @@
 body {
-  font-family: "Raleway", sans-serif !important;
-  font-optical-sizing: auto !important;
+  font-family: "Raleway", sans-serif;
 }
 
 .bg-orange {
-  background-color: #f05a00 !important;
+  background-color: #f05a00;
+}
+.text-orange {
+  color: #f05a00;
 }
 
-.navbar-toggler {
-  padding-top: 10px;
-  padding-bottom: 10px;
+.btn-orange {
+  background-color: #f05a00;
+  border-color: #f05a00;
+  color: #fff;
+}
+.btn-orange:hover {
+  background-color: #d65000;
+  border-color: #d65000;
+  color: #fff;
 }
 
-.title-main {
-  font-weight: 600;
+.btn-outline-orange {
+  color: #f05a00;
+  border-color: #f05a00;
 }
-
-.paragraph-main {
-  font-size: 14px;
-  font-weight: 500;
+.btn-outline-orange:hover {
+  background-color: #f05a00;
+  color: #fff;
 }
