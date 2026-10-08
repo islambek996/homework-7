@@ -1,30 +1,26 @@
 body {
-  font-family: "Raleway", sans-serif;
+  font-family: "Raleway", sans-serif !important;
 }
 
 .bg-orange {
-  background-color: #f05a00;
+  background-color: #f05a00 !important;
 }
 .text-orange {
-  color: #f05a00;
+  color: #f05a00 !important;
 }
 
 .btn-orange {
-  background-color: #f05a00;
-  border-color: #f05a00;
-  color: #fff;
-}
-.btn-orange:hover {
-  background-color: #d65000;
-  border-color: #d65000;
-  color: #fff;
+  background-color: #f05a00 !important;
+  border-color: #f05a00 !important;
+  color: #fff !important;
 }
 
 .btn-outline-orange {
-  color: #f05a00;
-  border-color: #f05a00;
+  color: #f05a00 !important;
+  border-color: #f05a00 !important;
 }
-.btn-outline-orange:hover {
-  background-color: #f05a00;
-  color: #fff;
+
+.footer-phone {
+  font-size: 18px;
+  font-weight: 500;
 }
