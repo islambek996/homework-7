@@ -1,0 +1,22 @@
+body {
+  font-family: "Raleway", sans-serif !important;
+  font-optical-sizing: auto !important;
+}
+
+.bg-orange {
+  background-color: #f05a00 !important;
+}
+
+.navbar-toggler {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.title-main {
+  font-weight: 600;
+}
+
+.paragraph-main {
+  font-size: 14px;
+  font-weight: 500;
+}
